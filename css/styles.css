@@ -137,6 +137,7 @@ hr {
     border: 4px #52B7B7 solid;
     border-radius: 20px;
     text-align: center;
+    margin-top: 20px;
 }
 
 .hour-header {
